@@ -3,3 +3,17 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: tomato;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    text-align: center;
+}
+section{
+    height: 400px;
+    width: 100%;
+    
+}
